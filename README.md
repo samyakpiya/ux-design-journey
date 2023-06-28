@@ -101,6 +101,8 @@ Familiarized myself with critical terms, tools, and frameworks in UX design, wit
 **User**: A person who has a problem and is looking for a product or service to help them solve it.
 **Assistive Technology**: Any products, equipment, and systems that enhance learning, working, and daily living for people with disabilities. Different types of assistive technologies: color modification, voice control, screen readers, and alternative text.
 **Switch**: An assistive technology device that replaces the need to use a computer keyboard or mouse.
+**Platform**: The medium that a user experiences your product on.
+**Brand Identity**: The visual appearance and voice of a company.
 
 **UX Design Frameworks**:
 
@@ -137,7 +139,83 @@ Another important aspect of designing for equity is using **inclusive images**. 
 5 years ago, Google launched Google Photos as a place to store photos and keep them organized. Overtime, they noticed that users also wanted to revisit memories and relive treasured moments. To make it easier for users to do this, Google used the user-centered design process to redesign Google Photos. Now users can easily search to find their memories.
 ```
 
-**Week 3 Recap**: Participated in design sprints, a common practice for UX designers to guide product direction. Learned about the different phases of a design sprint and gained insights into planning and participation. Reflected on the design sprint via retrospectives to identify areas of improvement for future sprints.
+## Week 3
+
+Participated in design sprints, a common practice for UX designers to guide product direction. Learned about the different phases of a design sprint and gained insights into planning and participation. Reflected on the design sprint via retrospectives to identify areas of improvement for future sprints.
+
+**Design Sprint**: A time-bound process with five phases, typically spread over 5 full 8-hour days.
+**Design Sprint Goal**: Solve a critical design challenge through designing, prototyping, and testing ideas with users.
+**Design Sprint Brief**: A document that you share with all your attendees to help them prepare for the sprint.
+**Retrospective**: Collaborative critique of the team's design sprint
+
+**Design Spring Benefits**:
+
+- Save time: With a sprint, the team can cut the decision-making process down from several months to weeks.
+- Create an effective path to bring a product to the market
+- Prioritize the user
+- Fast forward to the future to test your product and get customer reactions before making any expensive decisions.
+
+**When to use Design Sprint**:
+
+- Many potential solutions to the challenge.
+- Cross-functional teams need to weigh in.
+- The challenge scope is wide.
+
+**Five Phases of Design Sprint**:
+
+```
+Imagine you're a UX designer for a company called Cycling Enthusiasts. Your latest app lets cyclists track their distance ridden and calories burnt. Sadly, the app sales have started slumping. So, how can a design sprint solve this problem? Let's find out.
+```
+
+**Phase 1 - Understand the scope of the design challenge**: Sets your sprint on the right track and helps the team get a clear picture of the design challenge. Your team takes time to learn from experts and engage in creative discussions with a lot of different people from other departments and industries. These conversations help in more clearly understanding the design challenge. Everything your team does in the sprint should focus on the user.
+
+```
+For our imaginary sprint, let's say sales are slumping because the app does not offer bicyclists anything new. Your team arrives for Phase 2 of the design sprint, pumped full of inspiration and ready to ideate some solutions.
+```
+
+**Phase 2 - Ideate possible solutions**: To get the creative juices flowing, you start this phase by coming up with ideas and building off of them to create solutions. Once you get the team thinking, each participant takes time to sketch and present their ideas. On top of all the ideating, you also need to plan for user testing. During user testing, you will have a diverse group of people test your product and provide feedback. To be able to do this, you need to start recruiting users that fit your target profile now. So, the sprint stays on schedule. By the time you reach Phase 3, you have a lot of potential solutions for your design challenge.
+
+```
+Now it's time to decide which solutions you want to build. Together, your cycling app team discusses each possible solution and eventually decides on the one solution that is most likely to excite users and increase sales.
+```
+
+**Phase 3 - Decide on the most viable solution**: For example, the solution might use a cyclist's location to create customized routes that meet their fitness goals. Finally, you'll wrap up the day by creating a step-by-step blueprint for your prototype.
+
+**Phase 4 - Create a workable prototype**: You are now ready to build the first version of your new app feature. At the end of this phase, you don't need a finished product, just something realistic enough to test with the users. By focusing only on what the user experiences on their screen, your team creates a working prototype of the new customized routes feature. During this phase, you also finish prepping for user testing by confirming the test schedule, finalizing interview questions, and making sure your prototype is good to go.
+
+```
+It's been a busy week but you did it. You reached the final phase: testing. Now it's time to put your prototype in front of users.
+```
+
+**Phase 5 - Test prototype with actual users**: As users test your prototype, you observe how they react and interview them about their experiences. Your team gains critical insight into changes that need to be made before you launch the new feature.
+
+```
+Congratulations, you made it to the end of the sprint. Now your team knows exactly what to adjust before launching the new cycling app feature. Promotions for all! Design sprints are a big part of the UX Design world so you will probably participate in a lot of them and even lead a few some day.
+```
+
+**Benefits of Design Sprints**:
+
+- It's all about the user. Sprint participants make sure that the design challenge is always focused on the users and their needs. After all, it's the users who ultimately decide if your product is successful.
+- Sprints value every person in the room from the office intern to the senior stakeholder.
+- The best ideas will rise to the top as including people from lots of disciplines and experience levels considers all angles of the problem and solution.
+- Time to focus. Sprints give the core team time to focus solely on the design challenge (five work days devoted entirely to distractionless, gadgetless, creative collaboration).
+- Sprints lower the risk of unsuccessful market debuts because the team gets feedback from real users and can make critical adjustments before the product launches.
+- Sprints are versatile because they can be scheduled at any point during your project. When a challenge arises, you always got the design sprint option in your back pocket.
+
+**Plan Design Sprints**:
+
+1. User Research: First step in any sprint planning process. Your research should focus on the user problems you are trying to solve during the sprint. You don't have to detail a specific problem right away. But getting a rough idea about what your sprint will focus on will help you decide which research methods make the most sense.
+2. Call in the experts: If you're planning the sprint, it's up to you to schedule short talks with colleagues or industry experts. You'll listen to these info-packed talks during the understanding phase of the sprint. A good talk helps clarify the problem your sprint is trying to solve. Keep in mind, the more experts you bring in, the more schedules you have to accommodate. So, start planning early. We promise it will be worth it.
+3. Find the right space: Sounds a little obvious but booking the right room can make all the difference. It's important to ensure that the space allows all employees equal opportunities to perform their job. Few things you should look for: whiteboards to capture your ideas or hang sticky notes, acoustics, accommodations for anyone who needs them, and comfortable furniture you can move around easily.
+4. Gather supplies: If you're planning the design sprint, it's your job to make sure everyone has what they need to participate, kind of like a teacher handing out classroom supplies. Some essentials include markers, sticky notes, a lot of snacks, and water.
+5. Establish sprint rules: If you want this to be a gadgetless, distraction-free zone, now is the time to say so. Figuring out the ground rules in advance sets the tone for the sprint, gets everyone on the same page, and helps your team stay focused.
+6. Plan introductions: This can be pretty important since sprint involves cross-functioning teams that have never met before. We all know icebreakers can be cheezy but they're still a great way to help your team get comfortable with others. Plus, choosing icebreakers that are relevant to your sprint can motivate your team and put them in the right mindset. Here's an idea for an icebreaker:
+
+```
+Ask everyone to talk about a time they called customer service to complain.
+```
+
+7. Post-sprint planning: Think about what will happen after the sprint wraps up like how your team might use what you've learned to achieve other goals. To do this, you will need documentation. Make sure you enlist a few people to help document the design sprint by taking pictures, collecting sticky notes, and jotting down ideas.
 
 **Week 4 Recap**: Integrated research into the design process, keeping user needs at the core of design decisions. Explored the role of research in fostering empathy for users, and analyzed the benefits and drawbacks of common UX research methods. Identified and addressed potential biases that can emerge when conducting research.
 
